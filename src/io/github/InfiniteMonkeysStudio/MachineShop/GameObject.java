@@ -1,4 +1,4 @@
-package io.github.qhenckel.MachineShop;
+package io.github.InfiniteMonkeysStudio.MachineShop;
 
 /**
  * Created by Quinn on 3/13/2016.

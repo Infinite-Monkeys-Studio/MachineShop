@@ -1,4 +1,4 @@
-package io.github.qhenckel.MachineShop;
+package io.github.InfiniteMonkeysStudio.MachineShop;
 
 import processing.core.PApplet;
 import processing.core.PVector;
@@ -9,7 +9,7 @@ import processing.core.PVector;
 public class Main extends PApplet {
 
     public static void main(String args[]) {
-        PApplet.main(new String[] { "--present", "io.github.qhenckel.MachineShop.Main" });
+        PApplet.main(new String[] { "--present", "io.github.InfiniteMonkeysStudio.MachineShop" });
     }
 
     public void settings() {

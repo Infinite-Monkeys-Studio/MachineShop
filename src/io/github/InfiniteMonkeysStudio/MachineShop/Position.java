@@ -1,4 +1,4 @@
-package io.github.qhenckel.MachineShop;
+package io.github.InfiniteMonkeysStudio.MachineShop;
 
 import processing.core.PVector;
 

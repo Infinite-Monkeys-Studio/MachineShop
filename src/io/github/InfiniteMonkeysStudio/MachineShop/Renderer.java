@@ -1,6 +1,5 @@
-package io.github.qhenckel.MachineShop;
+package io.github.InfiniteMonkeysStudio.MachineShop;
 
-import processing.core.PApplet;
 import processing.core.PShape;
 
 import java.util.HashMap;
